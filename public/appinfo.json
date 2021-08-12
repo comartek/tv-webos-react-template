@@ -1,0 +1,10 @@
+{
+  "id": "com.ws.cloudcms",
+  "version": "0.0.1",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "WincloudCMS",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
